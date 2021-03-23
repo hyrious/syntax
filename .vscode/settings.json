@@ -6,5 +6,8 @@
     "source.addMissingImports": true,
     "source.organizeImports": true,
     "source.fixAll": true
+  },
+  "[html]": {
+    "editor.defaultFormatter": null
   }
 }
