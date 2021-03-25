@@ -19,5 +19,8 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
+  },
+  "prettier": {
+    "tabWidth": 2
   }
 }
